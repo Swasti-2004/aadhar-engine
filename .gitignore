@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+dashboard/node_modules/
+
+# Build files
+dashboard/build/
+
+# Data files (too large for GitHub)
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+analysis/__pycache__/
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PDF (we'll add it separately)
+# analysis/UIDAI_Hackathon_Submission.pdf
